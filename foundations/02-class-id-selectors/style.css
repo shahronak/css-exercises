@@ -1,0 +1,21 @@
+/* Stles for classes and IDs */
+
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+.change-font-size {
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
