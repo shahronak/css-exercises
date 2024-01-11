@@ -51,6 +51,9 @@ body {
 .sidebar {
   flex-shrink: 0;
   padding: 16px;
+
+  display: flex;
+  min-width: 300px;
 }
 
 ul {
